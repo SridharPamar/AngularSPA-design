@@ -15,7 +15,7 @@ Create at least 3 views:
 
 ### Angular 7/8 People Management Application
 
-I'll create a Single Page Application in Angular to manage a list of people with the three required views. Let's build this step by step.
+ created a Single Page Application in Angular to manage a list of people with the three required views. Let's build this step by step.
 
 ```typescriptreact project="angular_people_management"
 ...
